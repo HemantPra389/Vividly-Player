@@ -1,17 +1,34 @@
-# vividly_music_player
 
-A new Flutter project.
+# Vividly Music Player
 
-## Getting Started
+A Flutter App which extract user's local storage to extract Song collection.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Vividly-Player
+- Neumorphic Theme
+- Ask permission to use local storage
+- Beautiful UI
+- Good Setting Screen
+- All playback methods
+
+
+
+## Optimizations
+
+- Using Provider Package make the player being listened from anywhere on the screen.
+- Maximum of Bug Fixes
+- Neumorphic Theme bring 3D look for Attractive and smooth interaction.
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/HemantPra389/Vividly-Player/main/Untitled%20design.png)
+
+
+## Authors
+
+- [@HemantPra389](https://github.com/HemantPra389)
